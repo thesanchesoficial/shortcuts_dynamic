@@ -1,7 +1,9 @@
 name: shortcuts_dynamic
-description: A new Flutter plugin for creating dynamic shortcuts on Android.
+description: A Flutter plugin that allows you to create, manage, and remove Android shortcuts dynamically.
 version: 1.0.0
-homepage:
+homepage: https://github.com/thesanchesoficial/shortcuts_dynamic
+repository: https://github.com/thesanchesoficial/shortcuts_dynamic
+publish_to: 'https://pub.dev'
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
